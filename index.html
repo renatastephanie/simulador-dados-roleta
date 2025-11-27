@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simulador de Dados ou Roletas</title>
+    <link rel="stylesheet" href="/css/main.css">
+    <link rel="icon" href="data:;base64,iVBORw0KGgo=">
+</head>
+
+<body>
+    <main class="container">
+        <header>
+            <h1>🎲 Simulador de Jogo Aleatório</h1>
+        </header>
+        <section class="simulator-section">
+            <p>O objetivo é simular o lançamento de um dado (número de 1 a 6).</p>
+            <div class="display-box" id="result-display" aria-live="polite"
+                aria-label="Resultado do Lançamento: Ponto de Interrogação">?
+            </div>
+            <button class="roll-button" id="roll-button">
+                GIRAR / JOGAR DADO
+            </button>
+        </section>
+
+        <footer>
+            <p class="instrucao">
+                Clique no botão para gerar um número aleatório (1 e 6).
+            </p>
+        </footer>
+    </main>
+
+    <script src="/scripts/main.js"></script>
+</body>
+
+</html>
