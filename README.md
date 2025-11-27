@@ -8,7 +8,7 @@ Este é um projeto simples para simular o lançamento de um dado ou o giro de um
 -   **CSS3:** Estilização, animações e paleta de cores com variáveis.
 -   **JavaScript (ES6+):** Lógica do simulador e manipulação do DOM.
 
-## ✨ Funcionalidades
+## ⚙️ Funcionalidades
 
 -   Geração de números aleatórios de 1 a 6.
 -   Animação visual de "giro" ou "rolagem" para um feedback interativo.
