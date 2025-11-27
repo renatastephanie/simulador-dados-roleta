@@ -29,8 +29,6 @@ O projeto utiliza uma paleta de cores moderna e agradável, definida por variáv
 
 ## 🔗 Links
 
-Conecte-se e veja mais projetos!
-
 -   **LinkedIn:** (https://www.linkedin.com/in/renata-stephanie/)
 -   **GitHub:** (https://github.com/renatastephanie)
 -   **Para visualizar o projeto:** [clique aqui](https://simulador-dados-roleta.vercel.app/)
